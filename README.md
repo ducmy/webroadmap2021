@@ -50,3 +50,26 @@ Tree
     └── tricks.md
     
 ```
+
+### Q&A
+
+<details>
+    <summary><strong>Title</strong></summary>
+    
+* What is theme you most like for Vscode now? 
+  One Maokai
+* What is your next plan? 
+  Learn more about AWS. English or Japanese also
+* What is most you like for now?
+  Drink coffee, code by Vim, Gaming
+
+</details>
+<details>
+    <summary><strong>About me</strong></summary>
+    
+##### WebRoadmap 2021 author name Duc My (vietnamese)
+* Tester(1year), 
+* Linux System Engineer(2.5years), 
+* Fullstack PHP Web Developer (2.5 years)   
+
+</details>
