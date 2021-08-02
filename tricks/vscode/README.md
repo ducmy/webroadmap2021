@@ -1,4 +1,12 @@
-### Các extenstion đã cài đặt trong VSCode
+## Tricks for VSCode
+
+#### Preview markdown
+* Cai 2 extension lien quan toi mark down
+* Trong phan edit file, o goc tren ben phai co phan (markdown review enhanced, bieu tuong quyen sach va kinh luc, nhap vao se thay)
+* Ngoai ra con co cac tuy chon khac cho file
+
+
+#### Các extenstion đã cài đặt trong VSCode
 $code --list-extensions
 
 <details>
