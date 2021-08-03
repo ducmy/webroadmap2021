@@ -1,9 +1,10 @@
 ### Web Road Map 2021
 
-#### All path
+<details>
+  <summary><strong>RoadMap folders</strong></summary>
+
 ```bash
 
-Tree
 ├── README.md
 ├── aws
 │   ├── courses
@@ -13,12 +14,14 @@ Tree
 │   └── process
 │       └── README.md
 ├── code
-│   └── README.md
+│   ├── README.md
+│   └── generate_code_pattern.jpg
 ├── database
 │   └── mysql
 │       └── README.md
 ├── docker
-│   └── README.md
+│   ├── README.md
+│   └── wls2-install.md
 ├── frameworks
 │   ├── README.md
 │   ├── laravel
@@ -26,7 +29,14 @@ Tree
 │   └── wordpress
 ├── git
 │   └── README.md
+├── github
+│   └── README.md
+├── linux
+│   ├── README.md
+│   └── basic-command.bash
 ├── program
+│   ├── bashscript
+│   │   └── README.md
 │   ├── css
 │   │   └── README.md
 │   ├── html
@@ -47,14 +57,17 @@ Tree
 │   └── vscode
 │       └── README.md
 └── vim
+    ├── basic.md
+    ├── links.md
     └── tricks.md
+
+
     
 ```
-
-### Q&A
+</details>
 
 <details>
-    <summary><strong>Title</strong></summary>
+    <summary><strong>Q&A</strong></summary>
     
 * What is theme you most like for Vscode now? 
   One Maokai
