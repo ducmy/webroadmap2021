@@ -21,3 +21,28 @@ word3
 Ctrl + a #tang
 Ctrol + x #Giam
 ```
+
+
+## Cách cut/paste trong code flutter flutter
+
+```dart
+ runApp(MaterialApp(
+      home: SafeArea(
+    child: Scaffold(
+      body: Scaffold(  
+        body: Center(  
+               ⬇paste to here
+          child:    ,    //<= Want to me here
+        ),
+      ) 
+      ⬇start here
+      Text('Hi ban, cho minh lam quen nhe'),  // => Want to cut here and cut .
+    ),
+  )));
+  
+  *Patter:
+  Press $ to move the the end of line, press x to delete `,` symbol
+  Press ^ to begin of line, press v visual mode, press $, press x to delete this
+  Press p at paste_to_here
+  
+```
