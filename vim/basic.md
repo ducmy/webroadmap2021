@@ -38,3 +38,9 @@ yy #Copy current line
 ```php
 p #paste content copied
 ```
+
+## Undo and Redo
+Undo
+- Just in normal mode, press u
+Redo
+- Just in normal mode, press Ctrl + e
