@@ -39,7 +39,8 @@ yy #Copy current line
 p #paste content copied
 ```
 
-## Undo and Redo
+### Undo
 - Just in normal mode, press u to undo
-Redo
+
+### Redo
 - Just in normal mode, press Ctrl + e to redo
