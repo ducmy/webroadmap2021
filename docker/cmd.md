@@ -3,12 +3,12 @@
 ```bash
 
 # View the container list
-docker ps -a
+$docker ps -a
 
 #Turn on the project
-docker-compose down
+$docker-compose down
 
 #Turn of the project
-docker-compose up
+$docker-compose up
 
 ```
