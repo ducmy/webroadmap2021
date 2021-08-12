@@ -1,8 +1,13 @@
-#### Fix error 
+####  Can not pull images from docker-hub
 
 
-<span style="color:red">Env: WSL2-Docker - Can not pull images from docker-hub - Using docker extenson from VScode</span>.
+Env:
+WSL2-Docker
+VScode + Docker extension
 
+#pull wordpress image from docker hub
+$docker pull wordpress:latest
+![alt text](http://url/to/img.png)
 
 
 
