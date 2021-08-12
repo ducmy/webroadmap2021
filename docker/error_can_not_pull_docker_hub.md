@@ -7,7 +7,7 @@ VScode + Docker extension
 
 #pull wordpress image from docker hub
 $docker pull wordpress:latest
-![alt text](https://github.com/Ducmy/webroadmap2021/delete/master/docker/up.png?raw=true)
+![alt text](https://github.com/Ducmy/webroadmap2021/blob/master/docker/images/up.png?raw=true)
 
 
 
