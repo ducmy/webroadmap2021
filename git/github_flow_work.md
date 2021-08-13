@@ -1,5 +1,5 @@
 # Control source auth by ssh via Github
-![alt text](https://lh4.googleusercontent.com/xid16g3Icq5SsrPDxHTJ8oPkDtUNY7LD8zZtUIgq2Linpjouco5p7NtFIAp8Av07HYk91Uxk87yvwgU=w1920-h937-rw?raw=true)
+![alt text](https://lh4.googleusercontent.com/5yiydW8T6_dNMPhDrudotWlwtcGl7s1R4sRVhvCdcY5TD9JDMDvezppiu23JyHW95Z5jDUNqzcqsOwrHx3Zm4Q=w1920-h937-rw)
 
 ### Github
 ##### Create repo with private access
