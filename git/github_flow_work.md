@@ -86,6 +86,8 @@ $git pull
 	Each folder can be managed by ssh, shout specify which private for repo, or we
 	can use the same key, whatever.
 	
+	eval `ssh-agent -s` before using ssh-add <private_lkey>
+	
 	Github have two common key
 		1.For full repo access by managed https://github.com/settings/keys
 		2.For repo access which practice by above steps
