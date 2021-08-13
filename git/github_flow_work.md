@@ -89,3 +89,6 @@ $git pull
 	Github have two common key
 		1.For full repo access by managed https://github.com/settings/keys
 		2.For repo access which practice by above steps
+
+### 参考 Tham khao
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/about-ssh
