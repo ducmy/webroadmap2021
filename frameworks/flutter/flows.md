@@ -11,3 +11,8 @@ $dart pub add english_words
 
 
 ```
+
+#### Build APK
+```
+$flutter build apk
+```
