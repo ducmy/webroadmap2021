@@ -24,4 +24,13 @@ $git pull master
 
 ```
 
+### Delete branch
+
+#### Delete remote branch
+git push origin --delete <name_of_branch>
+
+#### Delete local branch (search)
+
+
+
 ## Add tag
