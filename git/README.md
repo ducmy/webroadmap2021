@@ -34,12 +34,18 @@ git push origin --delete <name_of_branch>
 
 
 ## Add tag
+(Begin update)
 
-
-## Create all local branches
+## Create all local branches from origin branch
 
 #### Pipleline
 
 ```shell
 for i in `git branch -a | grep remote | grep -v HEAD | grep -v master`; do git branch --track ${i#remotes/origin/} $i; done
+```
+
+### Push all local branch to other remote branch
+
+```git
+git push --all mystore
 ```
